@@ -106,3 +106,5 @@ Install dependencies.
 Train the models using the provided script.
 Run the Flask app to serve the web interface.
 Access the app and test the SMS and email spam detection functionality.
+
+![Screenshot 2024-11-13 211605](https://github.com/user-attachments/assets/10c2bd6b-d041-4358-a7d7-072c683b4009)
